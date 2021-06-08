@@ -14,8 +14,8 @@
   <div class="center">
     <h2>Please Sign In</h2>
     <form name="form1" method="post" action="login_db.php">
-    <input name="a_user" type="text" id="a_user">
-    <input name="a_pass" type="password" id="a_pass">
+    <input name="a_user" type="text" id="a_user" placeholder="Username">
+    <input name="a_pass" type="password" id="a_pass" placeholder="password">
     <input type="submit" name="Submit" value="Login">
     <h2>&nbsp;</h2>
   </div>
